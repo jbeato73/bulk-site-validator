@@ -43,7 +43,7 @@ def validate_sites(site_list):
             )
             writer.writeheader()
             writer.writerows(validated_data)
-        print(f"\n📦 Success: 'validated_inventory.csv' generated.")
+        print("\n📦 Success: 'validated_inventory.csv' generated.")
 
     print(f"📋 SUMMARY: {success_count} Success / {failure_count} Failed")
 
