@@ -1,0 +1,4 @@
+site_name,ip_address,status
+NY-DATA-01,10.0.0.1,READY
+LON-OFFICE,0.0.0.1,READY
+TOK-RETAIL,192.168.1.50,READY
